@@ -1,0 +1,13 @@
+# Normalize line endings
+src/*.ts linguist-detectable
+*.woff binary
+
+*.html linguist-vendored
+
+*.htm linguist-vendored
+*.jpeg binary
+*.jpg binary
+
+*.min.js linguist-generated  
+
+src/** linguist-detectable
